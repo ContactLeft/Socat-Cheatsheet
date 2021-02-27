@@ -13,3 +13,5 @@ Main Project Page : http://www.dest-unreach.org/socat/
 TryHackme Room where tested and snippets taken on stabilisation: https://tryhackme.com/room/introtoshells
 
 Examples and some code from : https://erev0s.com/blog/encrypted-bind-and-reverse-shells-socat/
+
+more ninja options here https://github.com/cheat/cheatsheets/blob/master/socat
